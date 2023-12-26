@@ -14,3 +14,15 @@ This is a text body without hash
 #### This is a header with 4 hash mark
 
 This is a text body without hash
+
+``` PowerShell
+Get-Alias -Name cat
+```
+
+``` powershell
+Get-Alias -Name cat
+```
+
+```
+Get-Alias -Name cat
+```
